@@ -1,0 +1,8 @@
+
+.row {
+    display: flex;
+}
+
+.col {
+    padding: 1rem;
+}
